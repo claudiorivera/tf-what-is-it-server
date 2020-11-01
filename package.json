@@ -1,0 +1,20 @@
+{
+  "name": "tf-what-is-it-server",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app",
+    "dev": "nodemon app"
+  },
+  "dependencies": {
+    "@tensorflow-models/mobilenet": "^2.0.4",
+    "@tensorflow/tfjs": "^2.7.0",
+    "@tensorflow/tfjs-node": "^2.7.0",
+    "cors": "^2.8.5",
+    "debug": "^4.2.0",
+    "express": "~4.16.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
