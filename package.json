@@ -15,7 +15,7 @@
     "express": "4.17.1"
   },
   "devDependencies": {
-    "nodemon": "2.0.9"
+    "nodemon": "2.0.10"
   },
   "resolutions": {
     "ini": "^2.0.0"
